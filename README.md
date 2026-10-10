@@ -1,4 +1,7 @@
-# konf - Entwickler A  Änderung 
+
+# konf - Entwickler A & B 
+
+
 Übungsprojekt für die LV **Konfigurationsmanagement**.
 
 Bearbeitet von: GITHUB
