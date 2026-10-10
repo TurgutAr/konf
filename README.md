@@ -1,4 +1,4 @@
-# konf
+# konf - Entwickler A
 Übungsprojekt für die LV **Konfigurationsmanagement**.
 
 Bearbeitet von: GITHUB
